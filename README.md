@@ -2,10 +2,11 @@
 
 # PCB
 ## Front
-<img width="1068" height="602" alt="18ff927d-8ec5-457c-a838-3c13476ab006" src="https://github.com/user-attachments/assets/160123c6-58fd-4c3e-a527-6e6ce8d5c556" />
+<img width="1068" height="602" alt="37b83378-3916-43a9-ab2b-b665f541d9bc" src="https://github.com/user-attachments/assets/dd334843-8137-42e4-82d8-99dd56a88e3b" />
 
 ## Back
-<img width="1068" height="602" alt="15bdcf27-233e-40a0-aee2-7051716d7106" src="https://github.com/user-attachments/assets/fd74cd4d-ff01-42d0-9d25-910edc404b8b" />
+<img width="1068" height="602" alt="56051914-c27c-437a-9e48-1d164a93ffbd" src="https://github.com/user-attachments/assets/cfbeacf1-586e-435d-b0ac-530bc6c519fb" />
+
 
 # Schematic
-<img width="575" height="598" alt="74b0424d-ba4c-4d30-ad32-1780d100884f" src="https://github.com/user-attachments/assets/b8a4397b-7e42-4e0c-be82-b9807c4281c4" />
+<img width="1545" height="949" alt="b74a70c7-6875-4e9f-a26d-cf7bd6938149" src="https://github.com/user-attachments/assets/cae0db7b-d07d-44a5-8ce0-a023db082a99" />
