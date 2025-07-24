@@ -3,6 +3,8 @@ int LED2 = D4;
 int LED3 = D5;
 int LED4 = D6;
 
+// setting leds to HIGH means they are off, the easiest way to explain would be to imagine that HIGH/LOW is the resistance value, so LOW would allow power to flow so leds turn on
+
 int BUTTON1 = D10;
 int BUTTON2 = D9;
 int BUTTON3 = D7;
@@ -88,12 +90,14 @@ void reactionTimeGame() {
 	  digitalWrite(LED2, HIGH);
 	  digitalWrite(LED3, HIGH);
 	  digitalWrite(LED4, HIGH);
+	  return;
 	}
   }
 }
 
 void simonSaysGame() {
   simonLength = 1;
+  for (int i = 0; i < MAX_SEQUENCE; i++) simonSequence[i] = -1;
   while (true) {
 	simonSequence[simonLength - 1] = random(0, pairCount);
 
@@ -113,6 +117,13 @@ void simonSaysGame() {
 			inputReceived = true;
 			if (j != simonSequence[i]) {
 			  Serial.println("wrong button, game over");
+			  digitalWrite(LED1, LOW);
+			  delay(50);
+			  digitalWrite(LED2, LOW);
+			  delay(50);
+			  digitalWrite(LED3, LOW);
+			  delay(50);
+			  digitalWrite(LED4, LOW);
 			  delay(1000);
 			  return;
 			} else {
