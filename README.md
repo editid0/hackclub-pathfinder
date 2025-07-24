@@ -1,8 +1,10 @@
 # hackclub-pathfinder
 
 # PCB
-<img width="1068" height="602" alt="abb5548d-3213-4ad6-986a-8f07db4207d6" src="https://github.com/user-attachments/assets/41fe7a2c-258e-48e8-a5ff-b25189f752d9" />
-<img width="1068" height="602" alt="1e7b8779-741d-427c-954d-b42f25144212" src="https://github.com/user-attachments/assets/ebed4942-3770-4c23-8041-6e7f2d4a50e2" />
+## Front
+<img width="1068" height="602" alt="18ff927d-8ec5-457c-a838-3c13476ab006" src="https://github.com/user-attachments/assets/160123c6-58fd-4c3e-a527-6e6ce8d5c556" />
+## Back
+<img width="1068" height="602" alt="15bdcf27-233e-40a0-aee2-7051716d7106" src="https://github.com/user-attachments/assets/fd74cd4d-ff01-42d0-9d25-910edc404b8b" />
 
 # Schematic
-<img width="1545" height="949" alt="0bc4ad68-125f-4b5d-a795-551d38f26290" src="https://github.com/user-attachments/assets/94c42657-6446-4df3-9906-e155dc816997" />
+<img width="575" height="598" alt="74b0424d-ba4c-4d30-ad32-1780d100884f" src="https://github.com/user-attachments/assets/b8a4397b-7e42-4e0c-be82-b9807c4281c4" />
